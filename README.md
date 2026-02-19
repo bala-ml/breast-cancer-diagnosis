@@ -120,6 +120,22 @@ Since false negatives are critical:
 ├── requirements.txt
 └── README.md
 
+---
+
+## 📂 Project Structure
+
+```
+breast-cancer-diagnosisn-ml/
+│
+├── data/
+│   └── breast_cancer.csv
+│
+├── notebook/
+│   └── breast_cancer_diagnosis.ipynb
+│
+├── requirements.txt
+└── README.md
+```
 
 ---
 
