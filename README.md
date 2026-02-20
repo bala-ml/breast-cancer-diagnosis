@@ -110,15 +110,6 @@ Since false negatives are critical:
 - Accuracy
 - Confusion Matrix
 
----
-
-## 📂 Project Structure
-
-├── data/
-├── notebooks/
-├── src/
-├── requirements.txt
-└── README.md
 
 ---
 
